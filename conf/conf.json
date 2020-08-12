@@ -1,4 +1,4 @@
 {
-  "baseUrl": "http://123.213.1.196/app/index.html"
+  "baseUrl": "http://123.213.1.196"
   ,"apiUrl": "http://123.213.1.196/dis/api1.0"
 }

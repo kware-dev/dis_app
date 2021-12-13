@@ -1,4 +1,4 @@
 {
-  "baseUrl": "http://rnd.kware.co.kr:38080/dis"
-  ,"apiUrl": "http://rnd.kware.co.kr:38080/dis/api1.0/"
+  "baseUrl": "http://123.213.1.197:8081/dis"
+  ,"apiUrl": "http://123.213.1.197:8081/dis/api1.0/"
 }
